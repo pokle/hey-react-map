@@ -2,6 +2,21 @@
 
 Demo React application showcasing Leaflet, Mapbox and Google Maps integration with the rest of the React ecosystem.
 
+## Technologies
+
+- [React](https://react.dev/) - A JavaScript library for building user interfaces
+- [TypeScript](https://www.typescriptlang.org/) - Typed superset of JavaScript that compiles to plain JavaScript
+- [Vite](https://vite.dev/) - Next generation frontend build tool with fast HMR
+- [Leaflet](https://leafletjs.com/) - Open-source JavaScript library for interactive maps
+- [react-leaflet](https://react-leaflet.js.org/) - React components for Leaflet maps
+- [Mapbox GL JS](https://www.mapbox.com/mapbox-gljs) - JavaScript library for vector maps
+- [react-map-gl](https://visgl.github.io/react-map-gl/) - React wrapper for Mapbox GL JS
+- [Google Maps](https://developers.google.com/maps) - Google's mapping platform
+- [@react-google-maps/api](https://react-google-maps-api-docs.netlify.app/) - React wrapper for Google Maps JavaScript API
+- [Radix UI](https://www.radix-ui.com/) - Unstyled, accessible UI component primitives
+- [PapaParse](https://www.papaparse.com/) - Fast and powerful CSV parser for JavaScript
+- [ESLint](https://eslint.org/) - Pluggable JavaScript linter for code quality
+
 ## Prompts
 
 I created a new React + TypeScript + Vite project using the following command:
