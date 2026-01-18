@@ -34,7 +34,7 @@ export function Header({ provider, onProviderChange, showLocations, onToggleLoca
         onPressedChange={onToggleLocations}
         aria-label="Toggle locations panel"
       >
-        Locations
+        Waypoints
       </Toggle.Root>
 
       {/* Radix DropdownMenu handles accessibility, keyboard nav, and focus management */}
